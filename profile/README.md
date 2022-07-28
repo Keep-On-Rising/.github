@@ -1,5 +1,8 @@
-![logo](https://user-images.githubusercontent.com/79207602/181598158-8c333511-c16e-4ec7-a61e-7c11e6ba0800.png)
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/79207602/181598158-8c333511-c16e-4ec7-a61e-7c11e6ba0800.png">
+</div>
 
+</br>
 
 Cool! It seems that you have been interested in who we are and that pleases us a lot, if you are here you are probably working with us already, or you are in the process of contacting us, who knows?
 
